@@ -7,6 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
+pytesseract = "^0.3.10"
+opencv-python = "^4.9.0.80"
+streamlit = "^1.29.0"
+pandas = "^2.1.4"
 
 
 [build-system]
